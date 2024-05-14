@@ -12,7 +12,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import org.jsoup.Jsoup
 
 class GomunimeProvider : MainAPI() {
-    override var mainUrl = "https://185.231.223.76"
+    override var mainUrl = "https://gomunime.wiki/"
     override var name = "Gomunime"
     override val hasMainPage = true
     override var lang = "id"
